@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CirCleLoadingView</string>
+    <integer-array name="colors">
+        <item>0xB07ECBDA</item>
+        <item>0xB0E6A92C</item>
+        <item>0xB0D6014D</item>
+        <item>0xB05ABA94</item>
+        <item>0xB050C94D</item>
+    </integer-array>
+
+    <integer-array name="colors0">
+        <item>0xB0E6092C</item>
+        <item>0xB0C6114D</item>
+        <item>0xB06CAA94</item>
+        <item>0xB06AC304</item>
+        <item>0xB0868949</item>
+        <item>0xB0E0C9D4</item>
+    </integer-array>
+
+    <integer-array name="colors1">
+        <item>0xB0E6092C</item>
+        <item>0xB0C6114D</item>
+        <item>0xB06AAA94</item>
+        <item>0xB080C94D</item>
+    </integer-array>
+
+    <integer-array name="colors2">
+        <item>0xB0D6A92C</item>
+        <item>0xB0B6014D</item>
+        <item>0xB05ACA94</item>
+    </integer-array>
+
+</resources>
